@@ -1,5 +1,5 @@
-<h1 align="center">HEY NERDS ALSU YARULINA</h1>
-<h3 align="center">SUPERPOWERED SEXY ML/AI PYTHON DEVELOPER</h3>
+<h1 align="center">I am Alsu Yarulina</h1>
+<h3 align="center">Superpowered ML/AI python developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anyarulina&label=Profile%20views&color=0e75b6&style=flat" alt="anyarulina" /> </p>
 
