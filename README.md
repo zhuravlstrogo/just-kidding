@@ -1,4 +1,4 @@
-<h1 align="center">I am Alsu Yarulina</h1>
+<h1 align="center">I am Alsu Iarulina</h1>
 <h3 align="center">Superpowered ML/AI python developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anyarulina&label=Profile%20views&color=0e75b6&style=flat" alt="anyarulina" /> </p>
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Tinder extra tricks**
 
-- 📫 How to reach me **al.yarulina@gmail.com**
+- 📫 How to reach me **t.me/zhuravlstrogo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
